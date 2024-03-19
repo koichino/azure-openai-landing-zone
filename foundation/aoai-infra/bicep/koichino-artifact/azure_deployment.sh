@@ -1,6 +1,6 @@
 # Subscritoion ID separated by space
-#subscription_ids=("d38281d5-7b5a-4204-8ce6-f30dd97af189" "54b70dbd-f506-448d-b12e-7d05c9f1dda3" "13cb9335-70e4-4eb9-b054-eeb246b9264e")
-subscription_ids=("d38281d5-7b5a-4204-8ce6-f30dd97af189")
+#subscription_ids=("d38281d5-7b5a-XXXXXx" "54b70dbd-f506-XXXXXx" "13cb9335-70e4-XXXXXx")
+subscription_ids=("d38281d5-7b5a-XXXXXx")
 
 # Resource Group Name
 resource_group_name="bicep-rg"
